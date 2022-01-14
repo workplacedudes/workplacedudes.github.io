@@ -5,16 +5,16 @@
     <link>https://microsoftdudes.nl/nl/page/</link>
     <description>Recent content in Pages on MicrosoftDudes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://microsoftdudes.nl/nl/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://microsoftdudes.nl/nl/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Über mich</title>
+      <title>Over Ons</title>
       <link>https://microsoftdudes.nl/nl/page/about/</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://microsoftdudes.nl/nl/page/about/</guid>
-      <description>Hugo wurde in Go geschrieben und ist ein Open-Source-Generator für statische Sites, der unter der [Apache License 2.0.] (https://github.com/gohugoio/hugo/blob/master/LICENSE) verfügbar ist. Hugo unterstützt TOML-, YAML- und JSON-Datendateitypen , Markdown- und HTML-Inhaltsdateien und verwendet Shortcodes, um Rich Content hinzuzufügen. Andere bemerkenswerte Funktionen sind Taxonomien, mehrsprachiger Modus, Bildverarbeitung, benutzerdefinierte Ausgabeformate, HTML/CSS/JS-Minifizierung und Unterstützung für Sass SCSS-Workflows.
-Hugo nutzt eine Vielzahl von Open-Source-Projekten, darunter:
- https://github.com/yuin/goldmark https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.</description>
+      <description>MicrosoftDudes is tot stand gekomen door onderstaande personen. Samen hebben we één passie en dat is Microsoft.
+   Jeroen Burgerhout Engin Soyal Richard Ferreira          Microsoft365 Consultant &amp;amp; Microsoft Certified Trainer IT Consultant IT Consultant   Jeroen zit in het IT vak sinds 2001 en heeft altijd al een voorkeur gehad voor Microsoft producten.
+De laatste jaren is de focus op de Modern Workplace gericht, i.</description>
     </item>
     
   </channel>

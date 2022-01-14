@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MicrosoftDudes</title>
+    <title>Blog on MicrosoftDudes</title>
     <link>https://microsoftdudes.nl/en/blog/</link>
-    <description>Recent content on MicrosoftDudes</description>
+    <description>Recent content in Blog on MicrosoftDudes</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://microsoftdudes.nl/en/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
