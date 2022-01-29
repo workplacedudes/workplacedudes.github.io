@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MicrosoftDudes</title>
-    <link>https://microsoftdudes.nl/en/</link>
-    <description>Recent content on MicrosoftDudes</description>
+    <title>microsoftdudes on MicrosoftDudes</title>
+    <link>https://microsoftdudes.nl/en/tags/microsoftdudes/</link>
+    <description>Recent content in microsoftdudes on MicrosoftDudes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 29 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://microsoftdudes.nl/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://microsoftdudes.nl/en/tags/microsoftdudes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Episode 01</title>
       <link>https://microsoftdudes.nl/en/blog/202200129-s01e01/</link>
@@ -27,17 +27,6 @@ Episode 01 has been recorded and can be viewed via our Youtube channel.
 Jeroen had an idea for a while to do something with a vlog/streaming idea. However, the challenge was to find 2 other &amp;ldquo;dudes&amp;rdquo; who supported this idea and of course also want to participate. Fortunately, Jeroen had found 2 colleagues who were interested in it.
 After we talked to our employer SKS Professionals about sponsoring this idea, we got the green light.
 After this, we needed a nice name for this idea.</description>
-    </item>
-    
-    <item>
-      <title>About us</title>
-      <link>https://microsoftdudes.nl/en/page/about/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://microsoftdudes.nl/en/page/about/</guid>
-      <description>MicrosoftDudes was created by the people below. Together we have one passion and that is Microsoft.
-   Jeroen Burgerhout Engin Soysal Richard Sousa Ferreira          Microsoft365 Consultant &amp; Microsoft Certified Trainer IT Consultant Microsoft Cloud Workplace Consultant   Jeroen has been in the IT profession since 2001 and has always had a preference for Microsoft products.
-In recent years, the focus has been on the Modern Workplace, in conjunction with Intune, Microsoft365, Azure AD, Windows 10/11.</description>
     </item>
     
   </channel>
