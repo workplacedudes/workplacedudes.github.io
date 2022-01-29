@@ -2,19 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://microsoftdudes.nl/en/blog/202200129-s01e01/</loc>
-    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://microsoftdudes.nl/nl/blog/202200129-s01e01/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://microsoftdudes.nl/en/blog/202200129-s01e01/"
-                />
-  </url><url>
     <loc>https://microsoftdudes.nl/en/blog/</loc>
     <lastmod>2022-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -26,6 +13,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://microsoftdudes.nl/en/blog/"
+                />
+  </url><url>
+    <loc>https://microsoftdudes.nl/en/blog/202200129-s01e01/</loc>
+    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://microsoftdudes.nl/nl/blog/202200129-s01e01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://microsoftdudes.nl/en/blog/202200129-s01e01/"
                 />
   </url><url>
     <loc>https://microsoftdudes.nl/en/</loc>
