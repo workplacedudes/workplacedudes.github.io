@@ -336,6 +336,17 @@ Since this was the first episode for us, we had to get used to it. So sometimes 
 <script src="https://workplacedudes.nl/js/scripts.min.js"></script>
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-15KP4PQJBG"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-15KP4PQJBG', { 'anonymize_ip': false });
+}
+</script>
+
 
 
 
@@ -356,8 +367,14 @@ Since this was the first episode for us, we had to get used to it. So sometimes 
     darkmode.addEventListener('click', toggleDarkMode);
   }
 
-  const isDark = localStorage.getItem('darkmode');
-  if (isDark && isDark === 'dark') {
+  const darkStorage = localStorage.getItem('darkmode');
+  const isBrowserDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+  if (!darkStorage && isBrowserDark) {
+    document.documentElement.classList.add('dark');
+  }
+
+  if (darkStorage && darkStorage === 'dark') {
     toggleDarkMode();
   }
 </script>
