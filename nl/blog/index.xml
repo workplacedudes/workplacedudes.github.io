@@ -5,16 +5,29 @@
     <link>https://workplacedudes.nl/nl/blog/</link>
     <description>Recent content in Blog on WorkplaceDudes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 29 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://workplacedudes.nl/nl/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://workplacedudes.nl/nl/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Aflevering 01</title>
-      <link>https://workplacedudes.nl/nl/blog/202200129-s01e01/</link>
+      <title>S01:E02 | HP Connect for Microsoft Endpoint Manager (MEM)</title>
+      <link>https://workplacedudes.nl/nl/blog/20220211-s01e02/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://workplacedudes.nl/nl/blog/20220211-s01e02/</guid>
+      <description>WorkplaceDudes S01:E02
+En alweer de 2de show staat online. In deze aflevering toont Jeroen Burgerhout een demo met betrekking tot HP Connect for Microsoft Endpoint Manager (MEM).
+  Topics die voorbij komen zijn:
+ Waarom een BIOS updaten belangrijk kan zijn De connectie tussen HP Connect en MEM En waaom dit een toegevoegde waarde kan zijn  Voor meer informatie zie: https://admin.hp.com</description>
+    </item>
+    
+    <item>
+      <title>S01:E01 | Microsoft Examens en Certificeringen</title>
+      <link>https://workplacedudes.nl/nl/blog/20220129-s01e01/</link>
       <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://workplacedudes.nl/nl/blog/202200129-s01e01/</guid>
-      <description>WorkplaceDudes S01E01
-Aflevering 01 is opgenomen en te bekijken via ons Youtube kanaal.
-  In deze aflevering, hebben wij het over Microsoft examens. Dus hoe pak je het aan, welke bronnen gebruik je en naar ons inziens, de beste methode om je voor te bereiden. Aangezien dit de eerste aflevering was voor ons, moesten we nog even wennen. Dus er gaat soms wel iets mis, maar dat is voor ons een leerproces.</description>
+      <guid>https://workplacedudes.nl/nl/blog/20220129-s01e01/</guid>
+      <description>WorkplaceDudes S01:E01
+In onze allereerste show doen wij uiteraad een stukje introductie over ons zelf. Daarna gaan we het hebben over Microsoft examens en certificeringen.
+  Topics die voorbij komen zijn:
+ Waarom gecertificeerd? Voorbereiden op het examen Online of testcenter? Cross-exam skills Do&amp;rsquo;s &amp;amp; Don&amp;rsquo;ts  Aangezien dit de eerste aflevering was voor ons, moesten we nog even wennen. Dus er gaat soms wel iets mis, maar dat is voor ons een leerproces.</description>
     </item>
     
     <item>
