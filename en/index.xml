@@ -5,7 +5,18 @@
     <link>https://workplacedudes.nl/en/</link>
     <description>Recent content on WorkplaceDudes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 11 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://workplacedudes.nl/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://workplacedudes.nl/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>S01:E05 | Rudy Ooms and the windows.old bug</title>
+      <link>https://workplacedudes.nl/en/blog/20220325-s01e05/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://workplacedudes.nl/en/blog/20220325-s01e05/</guid>
+      <description>WorkplaceDudes S01:E05
+In today&amp;rsquo;s show of the WorkplaceDudes, we have MVP Rudy Ooms and he talks about the bug that he found with the windows.old folder where, after a remote wipe from Intune, the personal Onedrive data was still accessible. During the talks, we had a #MEMBeer as well.
+  Would you also like to be a guest on our show? You can register via our website https://workplacedudes.nl</description>
+    </item>
+    
     <item>
       <title>S01:E04 | Edge vs Google Chrome, M365 backup and Windows 11 22H2</title>
       <link>https://workplacedudes.nl/en/blog/20220311-s01e04/</link>
@@ -13,7 +24,7 @@
       
       <guid>https://workplacedudes.nl/en/blog/20220311-s01e04/</guid>
       <description>WorkplaceDudes S01:E04
-In this new installment of the Workplace Dudes, we talk about a controversial topic: Microsoft Edge vs Google Chrome.
+In this new epiosde of the WorkplaceDudes, we talk about a controversial topic: Microsoft Edge vs Google Chrome.
 In addition, we also talk about the backup of Microsoft 365 and we talk about the first major release of Windows 11 22h2 nicknamed Sun Valley 2.
   Would you also like to be a guest on our show? You can register via our website https://workplacedudes.nl</description>
     </item>

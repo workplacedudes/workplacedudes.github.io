@@ -5,7 +5,18 @@
     <link>https://workplacedudes.nl/nl/tags/workplacedudes/</link>
     <description>Recent content in workplacedudes on WorkplaceDudes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 11 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://workplacedudes.nl/nl/tags/workplacedudes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://workplacedudes.nl/nl/tags/workplacedudes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>S01:E05 | Rudy Ooms en de windows.old bug</title>
+      <link>https://workplacedudes.nl/nl/blog/20220325-s01e05/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://workplacedudes.nl/nl/blog/20220325-s01e05/</guid>
+      <description>WorkplaceDudes S01:E05
+In deze aflevering van de WorkplaceDudes hebben we MVP Rudy Ooms in de show. Enige tijd geleden had hij een bug gevonden in de windows.old folder waar nog persoonlijke Onedrive data bleef staan na een remote wipe via Intune. Ondertussen pakken we nog een #MEMBeer, want dat hoort er bij.
+  Wil je ook een keer te gast zijn bij ons in de show? Je kan je aanmelden via onze website https://workplacedudes.</description>
+    </item>
+    
     <item>
       <title>S01:E04 | Edge vs Google Chrome, M365 backup en Windows 11 22H2</title>
       <link>https://workplacedudes.nl/nl/blog/20220311-s01e04/</link>
@@ -13,7 +24,7 @@
       
       <guid>https://workplacedudes.nl/nl/blog/20220311-s01e04/</guid>
       <description>WorkplaceDudes S01:E04
-In deze nieuwe aflevering van de Workplace Dudes praten we over een controversiële onderwerp: Microsoft Edge vs Google Chrome.
+In deze nieuwe aflevering van de WorkplaceDudes praten we over een controversiële onderwerp: Microsoft Edge vs Google Chrome.
 Daarnaast hebben we het ook over het backup van Microsoft 365 en sluiten we af met de eerste major release van Windows 11 22h2 bijgenaamd Sun Valley 2.
   Wil je ook een keer te gast zijn bij ons in de show? Je kan je aanmelden via onze website https://workplacedudes.</description>
     </item>
