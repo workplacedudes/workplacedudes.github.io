@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://workplacedudes.nl/nl/blog/</loc>
-    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +13,58 @@
                 rel="alternate"
                 hreflang="nl"
                 href="https://workplacedudes.nl/nl/blog/"
+                />
+  </url><url>
+    <loc>https://workplacedudes.nl/nl/blog/20220408-s01e06/</loc>
+    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://workplacedudes.nl/en/blog/20220408-s01e06/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://workplacedudes.nl/nl/blog/20220408-s01e06/"
+                />
+  </url><url>
+    <loc>https://workplacedudes.nl/nl/tags/</loc>
+    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://workplacedudes.nl/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://workplacedudes.nl/nl/tags/"
+                />
+  </url><url>
+    <loc>https://workplacedudes.nl/nl/</loc>
+    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://workplacedudes.nl/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://workplacedudes.nl/nl/"
+                />
+  </url><url>
+    <loc>https://workplacedudes.nl/nl/tags/workplacedudes/</loc>
+    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://workplacedudes.nl/en/tags/workplacedudes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://workplacedudes.nl/nl/tags/workplacedudes/"
                 />
   </url><url>
     <loc>https://workplacedudes.nl/nl/blog/20220325-s01e05/</loc>
@@ -26,45 +78,6 @@
                 rel="alternate"
                 hreflang="nl"
                 href="https://workplacedudes.nl/nl/blog/20220325-s01e05/"
-                />
-  </url><url>
-    <loc>https://workplacedudes.nl/nl/tags/</loc>
-    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://workplacedudes.nl/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://workplacedudes.nl/nl/tags/"
-                />
-  </url><url>
-    <loc>https://workplacedudes.nl/nl/</loc>
-    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://workplacedudes.nl/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://workplacedudes.nl/nl/"
-                />
-  </url><url>
-    <loc>https://workplacedudes.nl/nl/tags/workplacedudes/</loc>
-    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://workplacedudes.nl/en/tags/workplacedudes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://workplacedudes.nl/nl/tags/workplacedudes/"
                 />
   </url><url>
     <loc>https://workplacedudes.nl/nl/blog/20220311-s01e04/</loc>
