@@ -5,15 +5,26 @@
     <link>https://workplacedudes.nl/en/blog/</link>
     <description>Recent content in Blog on WorkplaceDudes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 22 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://workplacedudes.nl/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://workplacedudes.nl/en/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>S01:E07 | Microsoft Windows 11 Powers the Future of Hybrid Work</title>
+      <title>S01:E08 | End of the Internet Explorer era, #MEM Update, MD-100 exam and more</title>
+      <link>https://workplacedudes.nl/en/blog/20220506-s01e08/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://workplacedudes.nl/en/blog/20220506-s01e08/</guid>
+      <description>WorkplaceDudes S01:E08
+In this episode, we talk about the end of the Internet Explorer era. Richard passed MD-100 and Jeroen passed SC-900. Richard also shows something about Defender for Endpoint on iOS with an in-app VPN option.
+  Would you also like to be a guest on our show? You can register via our website https://workplacedudes.nl</description>
+    </item>
+    
+    <item>
+      <title>S01:E07 | Jan Bakker over his Self Service Tool, Graph Explorer API en more</title>
       <link>https://workplacedudes.nl/en/blog/20220422-s01e07/</link>
       <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://workplacedudes.nl/en/blog/20220422-s01e07/</guid>
-      <description>WorkplaceDudes S01:E06
-Last Tuesday, April 5, Microsoft had a &amp;ldquo;stream&amp;rdquo; where they introduced a number of new features of Windows 11. Herewith a small recap of the stream.
+      <description>WorkplaceDudes S01:E07
+Today we have MVP Jan Bakker as our guest. He showcased his fantastic Self Service Tool, talked about Graph Explorer API and much more.
   Would you also like to be a guest on our show? You can register via our website https://workplacedudes.nl</description>
     </item>
     
